@@ -3,12 +3,19 @@ margin:0;
 padding:0;
 box-sizing:border-box;
 }
+
+*::before,*::after{
+box-sizing:border-box;
+}
+
 html{
 scroll-behaviour:smooth;
 }
+
 body{
-font-family:sans-serif;
-  
+font-family:sans-serif;  
 }
+
+
 
 
