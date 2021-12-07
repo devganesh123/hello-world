@@ -16,6 +16,9 @@ body{
 font-family:sans-serif;  
 }
 
-
+:root{
+--black:#000;
+  --white:#fff;
+}
 
 
